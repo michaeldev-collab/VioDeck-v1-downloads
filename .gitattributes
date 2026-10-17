@@ -1,0 +1,1 @@
+VioDeck_1.0.0_amd64.AppImage filter=lfs diff=lfs merge=lfs -text

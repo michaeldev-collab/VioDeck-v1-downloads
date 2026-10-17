@@ -1,0 +1,24 @@
+Copyright (c) 2026 3D Design Labs (Michael Butler). All rights reserved.
+
+VioDeck is a commercial product of 3D Design Labs. Paid tiers and other
+commercial terms, when offered, are governed by a separate written
+agreement. This file is not an end-user license agreement, terms of
+service, or privacy policy; those drafts remain for owner and counsel
+review (see docs/legal/TODO.md).
+
+Except as required by the licenses of third-party components, or as
+expressly authorized in writing by 3D Design Labs, you may not copy,
+modify, distribute, publicly display, sublicense, or create derivative
+works of this software.
+
+This software is provided "AS IS", without warranty of any kind, express
+or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose, and noninfringement.
+
+Third-party software included with or used by VioDeck is licensed under
+its own terms. Required notices are in THIRD_PARTY_NOTICES.md. Those
+terms are not replaced by this file.
+
+This LICENSE covers first-party VioDeck source and assets in this
+repository. It does not relicense third-party code, fonts, icons, or
+the vendored StreamDock transport library.
